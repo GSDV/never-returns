@@ -4,6 +4,10 @@
 
 
 ## How to use:
+Install the package:
+```npm install never-returns```
+
+Import the function and run off into the sunset:
 ```
 const neverReturn = require('never-returns');
 
