@@ -17,3 +17,5 @@ const doNotComplete = () => {
     console.log("But I will never be reached.");
 }
 ```
+
+Have fun and test your patience!
