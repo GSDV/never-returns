@@ -1,0 +1,22 @@
+{
+  "name": "never-returns",
+  "version": "1.0.0",
+  "description": "The function that never returns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSDV/never-returns.git"
+  },
+  "keywords": [
+    "never-returns"
+  ],
+  "author": "Gab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSDV/never-returns/issues"
+  },
+  "homepage": "https://github.com/GSDV/never-returns#readme"
+}
