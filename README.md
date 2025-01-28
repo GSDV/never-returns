@@ -4,8 +4,7 @@
 
 
 ## How to use:
-Install the package:
-```npm install never-returns```
+Install the package: ```npm install never-returns```
 
 Import the function and run off into the sunset:
 ```
